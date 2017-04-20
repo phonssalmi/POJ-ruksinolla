@@ -1,0 +1,17 @@
+div#main_container {
+	margin: 0 20%;
+	padding: 0;
+	background-color: #EEEEFF;
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	height: 500px;
+}
+
+html {
+	margin: 0;
+	padding: 0;
+}
