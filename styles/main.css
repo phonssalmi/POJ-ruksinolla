@@ -27,6 +27,10 @@ html {
 	display: inline-block;
 }
 
+.win-box {
+	border-color: red;
+}
+
 .box-row {
 	margin: 0;
 	line-height: 20px;
